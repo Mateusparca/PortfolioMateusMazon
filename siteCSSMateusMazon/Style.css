@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(rgb(158, 222, 238),lightblue, rgb(44, 144, 177), rgb(8, 115, 151),
+    rgb(3, 79, 104),  rgb(8, 115, 151));
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 3, 5);
+    
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0); 
+    font-size: large;
+    
+}
+.topico{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(248, 96, 8);  ;
+    font-size: x-large;
+}
+.semitopico{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(248, 96, 8);  
+    font-size: medium;
+}
+.imgLink:hover{
+    background-color: rgba(7, 108, 241, 0.25);
+}
+.blocoImg{
+    border: 20px;
+    border-style:ridge;
+    border-color: rgb(52, 53, 56);
+}
+.rodape{
+    text-align: left;
+    color: rgb(4, 3, 94);
+    
+}
+input{
+    background-color: rgb(234, 238, 4);
+}
